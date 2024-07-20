@@ -1,0 +1,18 @@
+/* For WebKit browsers (e.g., Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 5px; /* width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #921de0; /* color of the track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #ffffff; /* color of the thumb */
+    border-radius: 5px; /* roundness of the thumb */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; /* color of the thumb on hover */
+  }
+  
